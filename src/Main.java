@@ -4,7 +4,7 @@ void main() {
     System.out.printf("Letošní prázdniny byly plné odpočinku. Nejprve jsem byl na brigádě s přáteli, abych co nejvíce vydělal. Potom jsem vyrazil na dovolenou do Polska, kde jsem byl na různých výletech . V druhé polovině prázdnin jsem odpočíval a trávil čas s přáteli. Nakonec jsem stihl zajít i párkrát do kina, na různé festival, letní akce a připravit se na nový školní rok.");
     System.out.printf("Jakub Brostík");
     System.out.printf("Míkovice");
-    System.out.printf("733 643 862");
+    System.out.printf("732 643 862");
     System.out.printf("brostik_jakub@oauh.cz");
 
 }
